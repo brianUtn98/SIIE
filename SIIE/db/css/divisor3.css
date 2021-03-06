@@ -1,0 +1,18 @@
+div#right={
+	
+	width:20%;
+	height:30%;
+	float:left;
+}
+div#middle={
+	
+	width:20%;
+	height:30%;
+	float:left;
+	
+}
+div#left={
+	width:20%;
+	height:30%;
+	float:right;
+}

@@ -1,0 +1,22 @@
+.titulo {
+	display:table-cell;
+	border:1px solid black;
+	padding:3px;
+	vertical-align:middle;
+	text-align:center;
+}
+
+.seleccionable{
+	display:table-row;
+	text-decoration:none;
+	color:black;
+
+}
+
+.seleccionable:hover{
+	background-color:red;
+}
+
+.bgcolor{
+	background-color:#d8d8d8;
+}
